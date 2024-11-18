@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dyna.evacn",
+    "sha256_cert_fingerprints":
+    ["F6:98:FC:B6:9E:AD:8E:41:27:D9:FE:81:9F:58:E7:79:BD:AA:34:FC:DA:DE:F1:D8:8B:A1:78:EE:B9:23:E0:93"]
+  }
+}]
